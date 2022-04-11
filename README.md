@@ -1,1 +1,3 @@
-请阅读docs文件夹中的脚手架说明
+My 1st solo Reactjs simple project.
+
+1 page website
